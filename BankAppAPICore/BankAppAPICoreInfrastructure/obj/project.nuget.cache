@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tZstpXflCGT5sZyiu/wGeLMIZ27EQLthkdDiCP7lZyE1KZ8q8L6LEyLY+d9/o4BkAdiL3Vr8or62E0u5f8CiiQ==",
+  "success": true,
+  "projectFilePath": "D:\\BankAPPAPIRepo\\BankAppAPICore\\BankAppAPICoreInfrastructure\\BankAppAPICoreInfrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EMMAUEL MICHAEL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\EMMAUEL MICHAEL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\EMMAUEL MICHAEL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\EMMAUEL MICHAEL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\EMMAUEL MICHAEL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\EMMAUEL MICHAEL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

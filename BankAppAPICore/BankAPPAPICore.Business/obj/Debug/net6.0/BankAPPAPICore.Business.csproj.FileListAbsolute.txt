@@ -1,0 +1,15 @@
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\bin\Debug\net6.0\BankAPPAPICore.Business.deps.json
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\bin\Debug\net6.0\BankAPPAPICore.Business.dll
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\bin\Debug\net6.0\BankAPPAPICore.Business.pdb
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.AssemblyInfoInputs.cache
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.AssemblyInfo.cs
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.csproj.CoreCompileInputs.cache
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.dll
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\refint\BankAPPAPICore.Business.dll
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.pdb
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\ref\BankAPPAPICore.Business.dll
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\bin\Debug\net6.0\BankAPPAPICoreDomain.dll
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\bin\Debug\net6.0\BankAPPAPICoreDomain.pdb
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.csproj.AssemblyReference.cache
+D:\BankAPPAPIRepo\BankAppAPICore\BankAPPAPICore.Business\obj\Debug\net6.0\BankAPPAPICore.Business.csproj.CopyComplete
